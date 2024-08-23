@@ -1,1 +1,1 @@
-# jameclear.com project is hosted [here](https://jamesclearproject.netlify.app/)
+# jamesclear.com project is hosted [here](https://jamesclearproject.netlify.app/)
